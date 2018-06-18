@@ -6,6 +6,6 @@ module Memorable
   end
   
   def reset_all
-    @@all.clear
+    self.all.clear
   end
 end
