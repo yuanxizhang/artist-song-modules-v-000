@@ -1,5 +1,5 @@
 module Memorable
-  @@all = []
+  
   
   def count
     @@all.count
