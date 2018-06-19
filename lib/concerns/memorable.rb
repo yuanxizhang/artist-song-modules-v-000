@@ -7,6 +7,8 @@ module Memorable
     def reset_all
       self.all.clear
     end
+  end 
+  
   module InstanceMethods
     def initialize(name)
 end
